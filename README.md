@@ -18,6 +18,7 @@ My results with Llama-3.1 and Qwen are very impressive, the whole family is enjo
 On the sideline, the new Mac Mini M4 hardware is quiet, capable and affordable. 
 
 ## Looking forward
+- Will learn the foundamental concept of ggml: https://huggingface.co/blog/introduction-to-ggml
 - Will keep updating the model list here that is possible to run on Mac Mini M4 (only text generation models are possible at this moment, but things might evolve)
 - So far, the framework is not able to leverage Mac Mini's GPU hardware, has to integrate https://github.com/ml-explore/mlx, the integration is coming (https://github.com/ollama/ollama/issues/1730).
 - The concept of LoRA is interesting, https://github.com/ggerganov/llama.cpp/discussions/10123
