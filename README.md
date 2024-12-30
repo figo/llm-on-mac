@@ -8,7 +8,7 @@ Inferencing Large Language Models on Mac: Mac mini, Macbook...
 ## How
 | Framework | Hardware | Models|
 | ------ |  ------ |  ------ |
-| https://github.com/ggerganov/llama.cpp is written in CPP, make it possible to run on Mac. | Mac Mini M4 | https://huggingface.co/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF, https://huggingface.co/bartowski/Qwen2.5.1-Coder-7B-Instruct-GGUF or the model supports GGUF https://huggingface.co/models?library=gguf&sort=trending |
+| https://github.com/ggerganov/llama.cpp is written in CPP, make it possible to run on Mac. https://github.com/ollama/ollama is written in golang (although I havn't experimented it)| Mac Mini M4 | https://huggingface.co/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF, https://huggingface.co/bartowski/Qwen2.5.1-Coder-7B-Instruct-GGUF or the model supports GGUF https://huggingface.co/models?library=gguf&sort=trending |
 
 ### What is GGUF
 https://huggingface.co/docs/hub/en/gguf#finding-gguf-files
