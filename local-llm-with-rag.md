@@ -11,4 +11,7 @@ graph TD;
     C --> D[MacMini as the hardware]
 ```
 
-
+# Reference
+1. https://lmstudio.ai/
+2. https://anythingllm.com/
+3. https://qwen.ai/blog?id=qwen3-vl
